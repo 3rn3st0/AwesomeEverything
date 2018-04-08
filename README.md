@@ -27,8 +27,7 @@ NOTA: :warning::construction::triangular_ruler:
 ----------
 
 ### PHP
-
-* Artículos
+* [Rutas de autenticación en Laravel](https://laracasts.com/discuss/channels/laravel/routes-of-routeauth-function) :fire::book::computer:
 * Cursos
 * Librerías
 * Paquetes
@@ -45,10 +44,9 @@ NOTA: :warning::construction::triangular_ruler:
 **Impresiones**
 * :boom: = ¡Excelente! El material es lo máximo.
 * :fire: = ¡Muy, muy bueno! El material es de primera calidad.
-* :poop: = ¡Que mierda!
+* :smirk: = Deberías mirar aquí.
 * :puch: = El autor merece ser golpeado.
 * :sob: = Esto produce llanto.
-* :smirk: = Deberías mirar aquí.
 * :trollface: = No hay que decir mucho al respecto :wink:
 
 **Detalles**
