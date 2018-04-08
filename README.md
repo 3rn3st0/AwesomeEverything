@@ -12,13 +12,15 @@ Y ahora, ¡a divertirse!
 
 ### Lenguajes de Programación
 
+
+<summary>PHP</summary>
 <details>
-<summary>Ver lista</summary>
-#### PHP
 * [Un enlace](#)
 * [Otro enlace](#)
+</details>
 
-#### JavaScript
+<summary>JavaScript</summary>
+<details>
 * [Un enlace](#)
 * [Otro enlace](#)
 </details>
