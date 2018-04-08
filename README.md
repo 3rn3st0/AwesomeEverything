@@ -22,6 +22,8 @@ NOTA: :warning::construction::triangular_ruler:
 * [Bash Scripting](#bash-scripting)
 * [VisualBasic Script](#visualbasic-script)
 
+### [Leyenda](#leyenda)
+
 ----------
 
 ### PHP
@@ -38,3 +40,20 @@ NOTA: :warning::construction::triangular_ruler:
 ### Lenguaje C
 ### Bash Scripting
 ### VisualBasic Script
+### Leyenda
+
+**Impresiones**
+:boom: = ¡Excelente! El material es lo máximo.
+:fire: = ¡Muy, muy bueno! El material es de primera calidad.
+:poop: = ¡Que mierda!
+:puch: = El autor merece ser golpeado.
+:sob: = Esto produce llanto.
+:smirk: = Deberías mirar aquí.
+:trollface: = No hay que decir mucho al respecto :wink:
+
+**Detalles**
+:book: = Para leer
+:video_game: = Videojuegos
+:musical_score: = Música
+:movie_camera: = Vídeo
+:computer: = Código / Programación
