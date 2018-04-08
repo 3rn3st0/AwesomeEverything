@@ -8,56 +8,27 @@ En su mayoría, los enlaces llevan a websites de habla inglesa, sin embargo, seg
 
 Y ahora, ¡a divertirse!
 
+NOTA: :warning::construction::triangular_ruler:
+
 ## Índice
 
 ### Lenguajes de Programación
-* [PHP](#PHP)
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
-* [JavaScript](#JavaScript)
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
-* Python
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
-* C/C++/C#
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
+* [PHP](#php)
+* [JavaScript](#javascript)
+* [Python](#python)
+* [C](#c) "incluye ANSI C, C++ y C#"
 
 ### Automatización y Scripting
-* Bash Scripting
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
-* VisualBasic Script
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
+* [Bash Scripting](#bash-scripting)
+* [VisualBasic Script](#visualbasic-script)
 
 ----------
 
 ### PHP
-
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
 ### JavaScript
