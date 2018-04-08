@@ -6,6 +6,8 @@ Mi intención es que cualquier persona disponga de un lugar (éste repositorio :
 
 En su mayoría, los enlaces llevan a websites de habla inglesa, sin embargo, seguro aparecerá de vez en cuando una que otra página en español y portuguesa.
 
+Los enlaces están ordenados en orden alfabético estrictamente.
+
 Y ahora, ¡a divertirse!
 
 NOTA: :warning::construction::triangular_ruler:
@@ -27,12 +29,9 @@ NOTA: :warning::construction::triangular_ruler:
 ----------
 
 ### PHP
+* [Autenticación de usuarios y roles en Laravel](https://medium.com/@cvallejo/autenticaci%C3%B3n-de-usuarios-y-roles-en-laravel-5-5-97ab59552d91 "Autor: Claudio Vallejo") :boom::book::computer:
 * [Rutas de autenticación en Laravel](https://laracasts.com/discuss/channels/laravel/routes-of-routeauth-function) :fire::book::computer:
-* Cursos
-* Librerías
-* Paquetes
-* Snippets
-* Tutoriales
+* [Clase para el manejo del número de Registro de Información Fiscal, RIF](https://github.com/joseayram/utils "Autor: José Ayram") :fire::book::computer:
 
 ### JavaScript
 ### Python
@@ -45,7 +44,7 @@ NOTA: :warning::construction::triangular_ruler:
 * :boom: = ¡Excelente! El material es lo máximo.
 * :fire: = ¡Muy, muy bueno! El material es de primera calidad.
 * :smirk: = Deberías mirar aquí.
-* :puch: = El autor merece ser golpeado.
+* :punch: = El autor merece ser golpeado.
 * :sob: = Esto produce llanto.
 * :trollface: = No hay que decir mucho al respecto :wink:
 
