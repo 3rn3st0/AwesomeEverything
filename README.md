@@ -11,7 +11,7 @@ Y ahora, ¡a divertirse!
 ## Índice
 
 ### Lenguajes de Programación
-* [php]PHP
+* [PHP][php]
     * Artículos
     * Cursos
     * Librerías
