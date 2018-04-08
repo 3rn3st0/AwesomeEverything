@@ -13,7 +13,7 @@ Y ahora, ¡a divertirse!
 ### Lenguajes de Programación
 
 
-<summary>PHP</summary>
+### PHP <summary>ver</summary>
 <details>
 
 * [Un enlace](#)
@@ -22,7 +22,7 @@ Y ahora, ¡a divertirse!
 
 </details>
 
-<summary>JavaScript</summary>
+### JavaScript <summary>ver</summary>
 
 <details>
 
