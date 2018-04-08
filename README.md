@@ -16,7 +16,7 @@ NOTA: :warning::construction::triangular_ruler:
 * [PHP](#php)
 * [JavaScript](#javascript)
 * [Python](#python)
-* [C](#c) "incluye ANSI C, C++ y C#"
+* [Lenguaje C](#lenguaje-c "incluye ANSI C, C++ y C#")
 
 ### Automatización y Scripting
 * [Bash Scripting](#bash-scripting)
@@ -25,10 +25,16 @@ NOTA: :warning::construction::triangular_ruler:
 ----------
 
 ### PHP
-    * Artículos
-    * Cursos
-    * Librerías
-    * Paquetes
-    * Snippets
-    * Tutoriales
+
+* Artículos
+* Cursos
+* Librerías
+* Paquetes
+* Snippets
+* Tutoriales
+
 ### JavaScript
+### Python
+### Lenguaje C
+### Bash Scripting
+### VisualBasic Script
