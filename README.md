@@ -15,12 +15,19 @@ Y ahora, ¡a divertirse!
 
 <summary>PHP</summary>
 <details>
+
 * [Un enlace](#)
+
 * [Otro enlace](#)
+
 </details>
 
 <summary>JavaScript</summary>
+
 <details>
+
 * [Un enlace](#)
+
 * [Otro enlace](#)
+
 </details>
