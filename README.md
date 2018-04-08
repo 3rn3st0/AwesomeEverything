@@ -11,22 +11,53 @@ Y ahora, ¡a divertirse!
 ## Índice
 
 ### Lenguajes de Programación
+* PHP
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
+* JavaScript
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
+* Python
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
+* C/C++/C#
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
+
+### Automatización y Scripting
+* Bash Scripting
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
+* VisualBasic Script
+    * Artículos
+    * Cursos
+    * Librerías
+    * Paquetes
+    * Snippets
+    * Tutoriales
+
+----------
 
 ### PHP
-<details>
-<summary>ver</summary>
-
-* [Un enlace](#)
-
-* [Otro enlace](#)
-</details>
 
 ### JavaScript
-<details>
-<summary>ver</summary>
-
-* [Un enlace](#)
-
-* [Otro enlace](#)
-
-</details>
