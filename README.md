@@ -12,19 +12,18 @@ Y ahora, ¡a divertirse!
 
 ### Lenguajes de Programación
 
-
-### PHP <summary>ver</summary>
+### PHP
 <details>
+<summary>ver</summary>
 
 * [Un enlace](#)
 
 * [Otro enlace](#)
-
 </details>
 
-### JavaScript <summary>ver</summary>
-
+### JavaScript
 <details>
+<summary>ver</summary>
 
 * [Un enlace](#)
 
