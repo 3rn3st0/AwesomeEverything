@@ -11,14 +11,14 @@ Y ahora, ¡a divertirse!
 ## Índice
 
 ### Lenguajes de Programación
-* [phpID]: PHP
+* [PHP](#PHP)
     * Artículos
     * Cursos
     * Librerías
     * Paquetes
     * Snippets
     * Tutoriales
-* JavaScript
+* [JavaScript](#JavaScript)
     * Artículos
     * Cursos
     * Librerías
@@ -58,6 +58,6 @@ Y ahora, ¡a divertirse!
 
 ----------
 
-### [phpID]: PHP
+### PHP
 
 ### JavaScript
