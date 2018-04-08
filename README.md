@@ -10,15 +10,15 @@ Y ahora, ¡a divertirse!
 
 ## Índice
 
-    Lenguajes de Programación
+### Lenguajes de Programación
 
-    <details>
-        <summary>Ver lista</summary>
-            ### PHP
-                * [Un enlace](#)
-                * [Otro enlace](#)
+<details>
+<summary>Ver lista</summary>
+#### PHP
+* [Un enlace](#)
+* [Otro enlace](#)
 
-            ### JavaScript
-                * [Un enlace](#)
-                * [Otro enlace](#)
-    </details>
+#### JavaScript
+* [Un enlace](#)
+* [Otro enlace](#)
+</details>
